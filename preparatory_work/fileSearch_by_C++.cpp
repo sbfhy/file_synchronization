@@ -1,3 +1,6 @@
+/*
+    C++ 遍历某个文件夹下所有文件
+*/
 #include<iostream>
 #include<string>
 #include<io.h>
