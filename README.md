@@ -1,2 +1,3 @@
 # file_synchronization
-file synchronization by C++ on windows
+File synchronization by C++ on a windows system.
+
